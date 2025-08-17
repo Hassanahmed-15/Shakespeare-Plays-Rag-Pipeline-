@@ -1,4 +1,4 @@
-# Shakespeare Plays RAG PipelinE
+# Shakespeare Plays RAG Pipeline
 
 GPT 5 IS SOOO SHIT
 
