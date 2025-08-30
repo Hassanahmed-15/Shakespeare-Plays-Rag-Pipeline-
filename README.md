@@ -1,6 +1,5 @@
 # Shakespeare Plays RAG Pipeline
  
-GPT 5 IS SOOO SHIT
 
 A small but powerful pipeline that turns messy OCR scans of Shakespeare plays into clean, line-numbered text, keeping all scholarly notes intact. Perfect for anyone who wants the Bard’s work in a **machine-friendly, research-ready format**.
 
